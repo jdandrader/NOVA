@@ -1,10 +1,4 @@
--# NOVA-
-Tienda de camisetas online
 # **NOVA**
-
-[![N|Solid](https://raw.githubusercontent.com/jdandrader/NOVA-/Documentos/Iconos_web_png/001-mundial.png)](https://github.com/jdandrader/NOVA-/blob/Documentos/Iconos_web_png/001-mundial.png) 
-**Descripcion**
-Este es un proyecto enfocado a la venta de camisetas por internet 
 >Tienda de camisetas online
 
 **_Diseñador :_** Juan David Andrade Ramirez
@@ -27,7 +21,7 @@ Reconociendo las capacidades que se poseen actualmente para la construcción pá
 
 ---
 
-[![N|Solid](https://raw.githubusercontent.com/jdandrader/NOVA-/Documentos/Iconos_web_png/004-navegador-3.png)](https://github.com/jdandrader/NOVA-/blob/Documentos/Iconos_web_png/004-navegador-2.png)--**Objetivos especificos**--
+[![N|Solid](https://raw.githubusercontent.com/jdandrader/NOVA-/Documentos/Iconos_web_png/004-navegador-2.png)](https://github.com/jdandrader/NOVA-/blob/Documentos/Iconos_web_png/004-navegador-2.png)--**Objetivos especificos**--
 
 >- Implementar un diseño atractivo para el usuario
 >- La página debe permitir la visualización de los artículos >en venta  
@@ -35,7 +29,7 @@ Reconociendo las capacidades que se poseen actualmente para la construcción pá
 
 ---
 
-[![N|Solid](https://raw.githubusercontent.com/jdandrader/NOVA-/Documentos/Iconos_web_png/004-navegador-2.png)](https://github.com/jdandrader/NOVA-/blob/Documentos/Iconos_web_png/004-navegador-3.png)--**Planteamientro del problema**--
+[![N|Solid](https://raw.githubusercontent.com/jdandrader/NOVA-/Documentos/Iconos_web_png/002-navegador.png)](https://github.com/jdandrader/NOVA-/blob/Documentos/Iconos_web_png/002-navegador.png)--**Planteamientro del problema**--
 
 Debido a que no se poseo un apropiado proceso de acercamiento a la programación de páginas web el mayor reto será realizar el proceso de venta de artículos que es en lo que se basa el proyecto.
 
