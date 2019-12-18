@@ -29,9 +29,9 @@ Reconociendo las capacidades que se poseen actualmente para la construcción pá
 
 ---
 
-[![N|Solid](https://raw.githubusercontent.com/jdandrader/NOVA-/Documentos/Iconos_web_png/002-navegador.png)](https://github.com/jdandrader/NOVA-/blob/Documentos/Iconos_web_png/002-navegador.png)--**Planteamientro del problema**--
+[![N|Solid](https://raw.githubusercontent.com/jdandrader/NOVA-/Documentos/Iconos_web_png/002-navegador.png)](https://github.com/jdandrader/NOVA-/blob/Documentos/Iconos_web_png/002-navegador.png)--**Planteamiento del problema**--
 
-Debido a que no se poseo un apropiado proceso de acercamiento a la programación de páginas web el mayor reto será realizar el proceso de venta de artículos que es en lo que se basa el proyecto.
+Debido a que no se posee un apropiado proceso de acercamiento a la programación de páginas web el mayor reto será realizar el proceso de venta de artículos que es en lo que se basa el proyecto.
 
 ---
 
@@ -45,4 +45,4 @@ El proyecto no solo puede abrir paso a la siguiente fase del concurso de Word Sk
 
 >- El poco tiempo que se maneja para un novato
 >- Posible rechazo del proyecto 
->- No entrar el método para realizar la pagina 
+>- No encontar el método para realizar la pagina 
