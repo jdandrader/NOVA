@@ -1,7 +1,7 @@
 # **NOVA**
 >Tienda de camisetas online
 
-**_Diseñador :_** Juan David Andrade Ramirez
+**_Diseñador :_** 
 
 ---
 
